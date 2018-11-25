@@ -9,3 +9,10 @@ These are the colours I would like you to consider when making web contents.
 - ![#28262C](https://placehold.it/15/28262C/000000?text=+) `#28262C`
 
 You can run this code simply by opening the index.html file.
+
+TODO list
+
+- Collect PDF file from  TDnet 
+- Change each PDF file into text file
+- Analyze the text
+- send Notification
