@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dirname="Tdnet-rss"
+mkdir -p $dirname
+filename="${dirname}-`date +'%Y%m%d'`.xml"
+echo "Save to Tdnet-rss/$filename"
+curl -s -o Tdnet-rss/$filename  https://webapi.yanoshin.jp/webapi/tdnet/list/recent.rss
