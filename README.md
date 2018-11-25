@@ -2,15 +2,10 @@
 
 These are the colours I would like you to consider when making web contents.
 
-#F9F5FF  
-#D4C2FC
-#998FC7
-#28262C
-
 - ![#14248A](https://placehold.it/15/14248A/000000?text=+) `#14248A`
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#F9F5FF](https://placehold.it/15/F9F5FF/000000?text=+) `#F9F5FF`
+- ![#D4C2FC](https://placehold.it/15/D4C2FC/000000?text=+) `#D4C2FC`
+- ![#998FC7](https://placehold.it/15/998FC7/000000?text=+) `#998FC7`
+- ![#28262C](https://placehold.it/15/28262C/000000?text=+) `#28262C`
 
 You can run this code simply by opening the index.html file.
