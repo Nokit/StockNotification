@@ -14,6 +14,6 @@ You can run this code simply by opening the index.html file.
 
 - Collect PDF file from  TDnet 
 - Change each PDF file into text file
-It's easier than it sounds if you use pdfminer.  
+<br>It's easier than it sounds if you use pdfminer.  
 - Analyze the text
 - send Notification
